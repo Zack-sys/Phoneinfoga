@@ -29,3 +29,5 @@ $ python phoneinfoga.py -n xx xxxxxxxxxx
 ```
 
 * Here = ' xx' is a country code and 'xxxxxxxxxx' is phone number.
+
+![20200613_131542](https://user-images.githubusercontent.com/75029023/111898548-b058c300-8a61-11eb-8152-7112da340287.png)
