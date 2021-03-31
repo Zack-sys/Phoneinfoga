@@ -32,3 +32,5 @@ $ python phoneinfoga.py -n xx xxxxxxxxxx
 
 ![IMG_20210321_162451](https://user-images.githubusercontent.com/75029023/111898590-04fc3e00-8a62-11eb-9adb-c674af41fec5.jpg)
 
+### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
+> Usage of PhoneInfoga for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
